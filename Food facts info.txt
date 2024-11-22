@@ -1,0 +1,2 @@
+Food facts:
+Food facts is a little informative project, there are 3 options with images(pizza, burger and chips).When you click on each one, it will give you a fact about it!
